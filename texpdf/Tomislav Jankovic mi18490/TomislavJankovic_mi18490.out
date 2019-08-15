@@ -1,0 +1,16 @@
+\BOOKMARK [1][-]{section.1}{Klasterovanje teksta u skupu podataka zaposlenih u programerskim firmama}{}% 1
+\BOOKMARK [1][-]{section.2}{Uvod }{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Skup podataka employee\137reviews }{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Osnovna svojstva }{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Preprocesiranje. Istra\236ivacka analiza podataka - EDA. }{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Izbor korisnijih kolona za dalju analizu }{section.2}% 6
+\BOOKMARK [1][-]{section.3}{Klasterovanje }{}% 7
+\BOOKMARK [2][-]{subsection.3.1}{Klasterovanje teksta }{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.2}{Brojaci reci}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{CountVectorizer}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{TF-IDF}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Word2Vec}{subsection.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.3}{Klasterovanje putem DBSCAN}{section.3}% 13
+\BOOKMARK [2][-]{subsection.3.4}{Hiearhijsko klasterovanje}{section.3}% 14
+\BOOKMARK [1][-]{section.4}{Finalni zakljucak}{}% 15
+\BOOKMARK [1][-]{section.5}{Literatura }{}% 16
